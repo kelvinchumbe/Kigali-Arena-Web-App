@@ -1,0 +1,3 @@
+export const ADD_EVENTS = "ADD_EVENTS";
+export const EVENTS_FAILED = "EVENTS_FAILED";
+export const EVENTS_FETCHING = "EVENTS_FETCHING";

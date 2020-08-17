@@ -1,0 +1,414 @@
+.banner {
+  background-image: url("http://localhost:3004/images/kigali-arena8.jpg");
+  height: 350px;
+  opacity: 1;
+  width: 100%;
+  padding: 0px 100px;
+}
+
+.banner-content {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.nav-link {
+  font-family: "Montserrat Subrayada", sans-serif;
+  color: white;
+  font-size: 15px;
+  display: inline;
+  margin-left: 20px;
+}
+
+.nav-link:hover {
+  color: white;
+  border-bottom: 4px solid #fa9917;
+  display: inline-block;
+  line-height: 0.3;
+}
+
+.nav-link:focus {
+  color: #fa9917;
+}
+
+.col2 {
+  text-align: center;
+}
+
+.featured {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 10px;
+  background-color: rgba(211, 211, 211, 0.5);
+  align-items: center;
+  padding: 16px;
+  height: 100px;
+  border-radius: 3px;
+}
+
+.featured h3 {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+h3.date {
+  font-weight: 1200;
+}
+
+h3.day {
+  font-weight: normal;
+}
+
+.featured .date,
+.featured .day {
+  display: inline;
+  margin-right: 5px;
+}
+
+.featured .bttn button {
+  height: 37px;
+  width: 139px;
+  border-radius: 4px;
+  background-color: #fa9917;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  border: none;
+}
+
+.concert-images img {
+  object-fit: cover;
+  /* object-position: ; */
+  height: 160px;
+  width: 100%;
+  /* object-fit: none; /* Do not scale the image */
+  /* object-position: center; /* Center the image within the element*/
+}
+
+.team-images img {
+  height: 50%;
+  width: 50%;
+}
+
+.team-images {
+  text-align: center;
+  padding: 15px;
+  border: 1px solid black;
+  /* margin-bottom: 10px; */
+}
+
+.event-card {
+  height: 380px;
+  width: 290px;
+  margin-bottom: 50px;
+  position: relative;
+  flex-basis: calc(33% - 30px);
+}
+
+.event-card .date {
+  margin-top: -12px;
+  height: 25px;
+  width: 50%;
+  padding: 5px 4px;
+  background-color: #333;
+}
+
+.event-card h5 {
+  font-size: 12px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.event-card .title {
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.event-card .title h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 21px;
+}
+
+.event-card .bttn button {
+  height: 37px;
+  width: 139px;
+  border-radius: 20px;
+  background-color: #fa9917;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  border: none;
+}
+
+.event-card .bttn button:hover {
+  background-color: rgb(90, 98, 104);
+}
+
+.event-card .bttn {
+  text-align: center;
+}
+
+.line {
+  width: 145px;
+  border-bottom: 1px solid #808080;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.section-title h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+}
+
+.section-title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.events-list {
+  width: 100%;
+  display: flex;
+  flex-basis: 100%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.main-content {
+  padding: 0 100px;
+}
+
+.bottom-btn {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 30px;
+  left: 0;
+  right: 0;
+}
+
+.gallery img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.gallery {
+  margin-bottom: 50px;
+}
+
+.bottom-content {
+  width: 100%;
+  height: 300px;
+  background-color: red;
+  margin-bottom: 50px;
+  display: flex;
+}
+
+.direction {
+  text-align: center;
+  height: 100%;
+  background-color: black;
+  padding: 50px;
+  flex: 0.4;
+}
+
+.direction h2 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.direction h3 {
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.direction button {
+  font-size: 17px;
+  font-weight: 600;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  height: 45px;
+  width: 180px;
+  border-radius: 25px;
+  border: none;
+  background-color: #fa9917;
+}
+
+.map {
+  height: 100%;
+  flex: 0.7;
+}
+
+.map img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.footer {
+  display: flex;
+  width: 100%;
+  height: 350px;
+  padding: 30px 60px;
+  background-color: #c8c8c8;
+}
+
+.links {
+  flex: 0.65;
+  display: flex;
+}
+
+.events-tickets {
+  flex: 0.5;
+  line-height: 45px;
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.guest-xp {
+  flex: 0.5;
+  line-height: 40px;
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.info {
+  flex: 0.35;
+  line-height: 25px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
+
+.info img {
+  margin-bottom: 10px;
+}
+
+.footer-links {
+  color: #333;
+  display: block;
+}
+
+.footer-links:hover {
+  color: #333;
+}
+
+.footer h4 {
+  margin-top: 10px;
+  color: black;
+  font-size: 20px;
+  font-family: "Montserrat Subrayada", sans-serif;
+}
+
+.add-events button {
+  height: 39px;
+  width: 180px;
+  border-radius: 20px;
+  background-color: #fa9917;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.add-events {
+  text-align: center;
+}
+
+.event-info {
+  width: 100%;
+}
+.home,
+.away {
+  width: 50%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  padding: 50px;
+  border: 1px solid black;
+}
+
+.home img,
+.away img {
+  height: 70%;
+  width: 70%;
+}
+
+.team-images-info {
+  margin-bottom: 20px;
+}
+
+.event-info .title h4 {
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+
+.event-info .date h5 {
+  font-size: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.date-bold {
+  font-weight: 900;
+  display: inline-block;
+}
+
+.date-normal {
+  font-weight: 400;
+  display: inline-block;
+}
+
+.info-line {
+  width: 100%;
+  border-bottom: 1px solid #808080;
+  margin: 30px;
+}
+
+.bottom {
+  position: relative;
+  margin: 20px;
+}
+
+.event-info .bottom .bttn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.event-info .bottom .bttn button {
+  height: 35px;
+  width: 140px;
+  border-radius: 20px;
+  background-color: #fa9917;
+  color: white;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  border: none;
+}
+
+.concert-images-info img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}

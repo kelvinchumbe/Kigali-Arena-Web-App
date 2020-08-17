@@ -1,0 +1,347 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "PATRIOTS Basketball Club vs Tiger BBC",
+      "description": "The Super Cup will take place in Tenerife on September 12th and 13th, while the league will begin on the 18th.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 50.0,
+        "VIP": 100.0,
+        "Reserved": "",
+        "Early_Bird": 30.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "boston-celtics",
+        "away": "miami-heat",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 2,
+      "name": "RP-IPRC Huye BBC vs UR BBC Women",
+      "description": "The Super Cup will take place in Tenerife on September 12th and 13th, while the league will begin on the 18th.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 50.0,
+        "VIP": 100.0,
+        "Reserved": "",
+        "Early_Bird": 30.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "memphis-grizzlies",
+        "away": "atlanta-hawks",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 3,
+      "name": "United Generations for Basketball vs Shoot For The Stars BBC",
+      "description": "The Super Cup will take place in Tenerife on September 12th and 13th, while the league will begin on the 18th.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 50.0,
+        "VIP": 100.0,
+        "Reserved": "",
+        "Early_Bird": 30.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "rockets",
+        "away": "charlotte-hornets",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 4,
+      "name": "Hillsong London Live in Kigali",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "concert",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "",
+        "away": "",
+        "banner": "hillsong-concert"
+      },
+      "featured": false
+    },
+
+    {
+      "id": 5,
+      "name": "FINTEX Africa",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "concert",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "",
+        "away": "",
+        "banner": "fintex"
+      },
+      "featured": false
+    },
+
+    {
+      "id": 6,
+      "name": "Association Sportive de Sale vs JS Kairouan",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "milwrukee-bucks",
+        "away": "denver-nuggets",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 7,
+      "name": "APR BBC WOMEN vs UBUMWE BBC",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "memphis-grizzlies",
+        "away": "miami-heat",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 8,
+      "name": "APR BBC vs United Generations for Basketball",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "new-orleans",
+        "away": "dallas-mavericks",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 9,
+      "name": "REG vs 30 PLUS BBC",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "newyork-knicks",
+        "away": "portland-trailblazers",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 10,
+      "name": "ESPOIR vs PATRIOTS Basketball Club",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "san-antonio-spurs",
+        "away": "boston-celtics",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 11,
+      "name": "Clube Desportivo 1 de Agosto vs Smouha S.C.",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "milwrukee-bucks",
+        "away": "seattle-sonics",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 12,
+      "name": "JS Kairouan vs Smouha S.C.",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "sports",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "charlotte-hornets",
+        "away": "minnesota-timberwolves",
+        "banner": ""
+      },
+      "featured": false
+    },
+
+    {
+      "id": 13,
+      "name": "KIGALI JAZZ JUNCTION FT JIDENNA FT BRUCE MELODY",
+      "description": "Kigali, Rwanda!! It’s praise and worship time with world-renowned praise and worship band; Hillsong London.",
+      "date": "20-September-2020",
+      "time": "17.00",
+      "event_details": "The ACB clubs met this Thursday in Madrid at the Ordinary General Assembly, where they approved the start dates of the 2020-21 season. The competition will begin on September 12 and 13 with the Endesa Super Cup. It will take place in Tenerife and TD Systems Baskonia, Real Madrid, Barça and Iberostar Tenerife will compete for the first available title of the season. As for the Endesa League, the first matches will be played on September 18, 19 and 20.",
+      "category": "concert",
+      "tickets": {
+        "GA": 80.0,
+        "VIP": 150.0,
+        "Reserved": 100.0,
+        "Early_Bird": 50.0
+      },
+      "venue": "Kigali Arena",
+      "location": "Kigali, KGL",
+      "images": {
+        "home": "",
+        "away": "",
+        "banner": "hillsong-concert"
+      },
+      "featured": true
+    }
+  ],
+
+  "images": [
+    {
+      "id": 1,
+      "name": "Jidenna Concert",
+      "url": "http://localhost:3004/images/jidenna.jpg"
+    },
+
+    {
+      "id": 2,
+      "name": "Kigali Arena 13",
+      "url": "http://localhost:3004/images/kigali-arena13.png"
+    },
+
+    {
+      "id": 3,
+      "name": "Kigali Arena 6",
+      "url": "http://localhost:3004/images/kigali-arena6.jpg"
+    },
+
+    {
+      "id": 4,
+      "name": "Kigali Arena 1",
+      "url": "http://localhost:3004/images/kigali-arena1.jpg"
+    },
+
+    {
+      "id": 5,
+      "name": "Kigali Arena 7",
+      "url": "http://localhost:3004/images/kigali-arena7.jpg"
+    }
+  ]
+}
